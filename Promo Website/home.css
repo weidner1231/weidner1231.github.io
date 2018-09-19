@@ -1,0 +1,18 @@
+body{
+
+    background-color: dodgerblue;
+    background-image:url("img/Balcony.JPG");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 900px;
+
+}
+
+a{
+    color: dodgerblue;
+}
+
+h3{
+    text-align: center;
+
+}
